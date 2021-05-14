@@ -7,3 +7,7 @@
 Все расчеты площади, объема и высоты производятся автоматически.
 
 Опубликовано в AppStore (https://apps.apple.com/app/truck-area/id1551135187?src=AppAgg.com)
+
+<img width="220" alt="Снимок экрана 2021-05-14 в 22 26 01" src="https://user-images.githubusercontent.com/70258669/118306887-69d49180-b503-11eb-8e3a-eacc91dca8b3.png">
+<img width="222" alt="Снимок экрана 2021-05-14 в 22 25 50" src="https://user-images.githubusercontent.com/70258669/118306889-6b05be80-b503-11eb-9e9c-50a26213988f.png">
+<img width="226" alt="Снимок экрана 2021-05-14 в 22 25 40" src="https://user-images.githubusercontent.com/70258669/118306897-6ccf8200-b503-11eb-8928-ed12734d3dba.png">
